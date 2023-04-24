@@ -1,5 +1,5 @@
 # Technica-Alpha-
-About:
+## About:
 Technica is an affordable and advanced beam system that brights up your stages in colorful ways. With that, Technica has features that suits your needs for your stages. It offers a great and user-friendly UI for everyone to use.
 Do take in mind, in order to get along with this system and know it properly, there's training needed to fully know the basics of this beam system.
 Issues
@@ -12,9 +12,7 @@ Fade Colors: Conf1dential
 Sequences: Conf1dential
 
 ## Links:
-
 ### Product - https://www.roblox.com/catalog/7563552911/Technica-Alpha
-
 ### Testing game - https://www.roblox.com/games/7702775032/Technica-Demo
 
 
