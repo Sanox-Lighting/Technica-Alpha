@@ -5,7 +5,6 @@ As a company, Sanox Lighting values transparency, collaboration, and community-d
 ## About:
 Technica is an affordable and advanced beam system that brights up your stages in colorful ways. With that, Technica has features that suits your needs for your stages. It offers a great and user-friendly UI for everyone to use.
 Do take in mind, in order to get along with this system and know it properly, there's training needed to fully know the basics of this beam system.
-Issues
 
 ## Credits:
 UI Design: Millersons
