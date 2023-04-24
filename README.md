@@ -15,10 +15,8 @@ Fade Colors: Conf1dential
 Sequences: Conf1dential
 
 ## Links:
-### Product - https://www.roblox.com/catalog/7563552911/Technica-Alpha
-### Testing game - https://www.roblox.com/games/7702775032/Technica-Demo
-
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fdotnet%2Fcorefx%2Fblob%2Fmaster%2Fsrc%2FSystem.ObjectModel%2Fsrc%2FSystem%2FWindows%2FInput%2FICommand.cs&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
+### Product - ![alt text](https://www.roblox.com/catalog/7563552911/Technica-Alpha)
+### Testing game - ![alt text](https://www.roblox.com/games/7702775032/Technica-Demo)
 
 
 ## NOTICE:
