@@ -1,4 +1,7 @@
 # Technica-Alpha-
+## Why we decided to open source:
+As a company, Sanox Lighting values transparency, collaboration, and community-driven innovation. Unfortunately, we recently experienced a full source code leak for our Technica Alpha product. This leak put our intellectual property at risk, as it allowed others to potentially profit off of our hard work and innovation without our permission. To prevent this from happening, and in the spirit of open source principles, Sanox Lighting has made the difficult decision to open source Technica Alpha. We believe that by sharing the code with the community, we can not only protect our intellectual property but also foster collaboration and continued development of the product. We remain committed to providing high-quality lighting solutions and look forward to working with the community to continue improving our new Technica Beta update.
+
 ## About:
 Technica is an affordable and advanced beam system that brights up your stages in colorful ways. With that, Technica has features that suits your needs for your stages. It offers a great and user-friendly UI for everyone to use.
 Do take in mind, in order to get along with this system and know it properly, there's training needed to fully know the basics of this beam system.
