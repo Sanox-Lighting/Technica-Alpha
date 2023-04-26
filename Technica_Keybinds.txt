@@ -1,0 +1,32 @@
+Turning on multiple effects for example a movement effect and another one, will stop both until you disable the second one you enabled
+
+Technica Alpha keybind list: 
+
+Lamps
+1 - On
+2 - Off
+3 - Fade in
+4 - Fade out
+5 - Half / Half - Sequence
+6 - IN 8-BIT - Sequence
+7 - OUT 8-BIT - Sequence
+8 - 3 BIT IN - Sequence
+9 - TESTING (lamp.movement)
+0 - TESTING (lamp.movement)
+
+L & K - Half / Half 
+P - HOLD
+{ - FADE - Half / Half 
+ALT - Random
+CTRL - STROBE
+
+Movements
+V / B - Collect In/Out
+N / M - Side to side 
+H / J - Down up / Up down 
+C - Raise
+G - Less Raise
+F - Lower 
+T / Y - “swing”
+X - 90 *degree 
+Z - Defeult 
