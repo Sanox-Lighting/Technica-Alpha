@@ -18,6 +18,7 @@
  *
  * SPDX-License-Identifier: GPL-3.0-or-later
  ***]]--
+
 --[[
 	This ModuleScript is for whitelisting administrators for your game, to use Technica.
 	You can add as many as you want, just put a , after each user.
